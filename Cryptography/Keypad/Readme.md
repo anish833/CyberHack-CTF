@@ -5,3 +5,9 @@ cipher: 6 33 777 2 22 777 33 2 55 88 7 44 666 4 2 999 2 22 44 2 444
 ```
 
 From the challenge prompt it is said that it is a message typed from a keypad phone
+
+<img src = "1.PNG" />
+
+So decoding accordingly with the number pressed I got the message as ```MERABREAKUPHOGAYABHAI``` which is the flag
+
+flag:```cyberhack{MERABREAKUPHOGAYABHAI}```
