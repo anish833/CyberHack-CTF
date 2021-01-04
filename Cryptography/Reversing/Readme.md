@@ -5,7 +5,8 @@ Ola ! Reverse Engineers , get to work.... (Mazekeen ke kehne pe) https://drive.g
 
 The file has the content 
 ```
-Cipher text : ----------]<-<---<-------<---------->>>>+[<<<<+,----------------------,+++++++++++++++++++++++,---,-------------,++++++++++,+++++++,--,--------,----------------,+++++++++,>+++++++++++++++++++,<----,>,<++++,-,++++++++++++++,++++++,>------------------,<---------------,+++++++,--,-----,>++++++++++++++++++,,<----,-,>>---,,<<----------,```
+Cipher text : ----------]<-<---<-------<---------->>>>+[<<<<+,----------------------,+++++++++++++++++++++++,---,-------------,++++++++++,+++++++,--,--------,----------------,+++++++++,>+++++++++++++++++++,<----,>,<++++,-,++++++++++++++,++++++,>------------------,<---------------,+++++++,--,-----,>++++++++++++++++++,,<----,-,>>---,,<<----------,
+```
 
 For those who have played some CTFs will know that it is a esocentric language ```BrainFuck``` but when using brainfuck decoder it didn't work
 so spending some time googling I found out that this is ```Reversefuck``` because operands and brackets are used in reverse order so googling for a 
