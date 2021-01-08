@@ -8,7 +8,7 @@ The file has the content
 Cipher text : ----------]<-<---<-------<---------->>>>+[<<<<+,----------------------,+++++++++++++++++++++++,---,-------------,++++++++++,+++++++,--,--------,----------------,+++++++++,>+++++++++++++++++++,<----,>,<++++,-,++++++++++++++,++++++,>------------------,<---------------,+++++++,--,-----,>++++++++++++++++++,,<----,-,>>---,,<<----------,
 ```
 
-For those who have played some CTFs will know that it is a esocentric language ```BrainFuck``` but when using brainfuck decoder it didn't work
+For those who have played some CTFs will know that it is a esoteric language ```BrainFuck``` but when using brainfuck decoder it didn't work
 so spending some time googling I found out that this is ```Reversefuck``` because operands and brackets are used in reverse order so googling for a 
 online decoder ```https://www.dcode.fr/reversefuck-language``` and decoding it gave me the flag
 
