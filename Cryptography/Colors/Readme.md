@@ -12,6 +12,6 @@ After googling a bit about color ciphers I found this
 
 <img src='hexahue-alphabet.png'/>
 
-which is stated as hexahue alphabet and after decoding it I got the flag
+which is stated as hexahue alphabet and after decoding it and replacing dot with dashes  I got the flag               
 
 flag: ``` cyberhack{colors_are_beautiful}```
