@@ -5,3 +5,11 @@ https://drive.google.com/file/d/16s56Brm--raQKuFrMTP7wgkKm6kjFiX9/view?usp=shari
 ```
 
 Going to the link gave me a image 
+
+
+
+
+
+
+
+<img src= 'hexahue-alphabet.png' />
