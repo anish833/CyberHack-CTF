@@ -8,7 +8,7 @@ Going to the link gave me a image
 
 <img src='Capture.PNG'/>
 
-After googling a bit about color ciphers i found this
+After googling a bit about color ciphers I found this
 
 <img src='hexahue-alphabet.png'/>
 
