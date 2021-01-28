@@ -5,12 +5,7 @@ https://drive.google.com/file/d/16s56Brm--raQKuFrMTP7wgkKm6kjFiX9/view?usp=shari
 ```
 
 Going to the link gave me a image 
-<img src = 'Caputure.PNG' />
+<img src ='Capture.PNG'/>
 
-
-
-
-
-
-
+After googling a bit about color ciphers i found this
 <img src= 'hexahue-alphabet.png' />
